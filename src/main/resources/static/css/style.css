@@ -13,8 +13,10 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 4505px;
     color: white;
+   /* background-image: url("static/images/obrazek-1.jpg"); */
+    max-width: 1500px;
     background-color: black;
     background-repeat: no-repeat;
     background-size: cover;
